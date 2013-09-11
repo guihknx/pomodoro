@@ -83,10 +83,7 @@
 			</div>
 		</div>
 	</div>
-	<audio id="d">
-		<source src="http://guih.us/pomodoro/beep-30.wav" type="audio/wav">
-		<source src="http://guih.us/pomodoro/beep-30.mp3" type="audio/mpeg">
-	</audio> 
+
 	<script type='text/javascript' src="js/bootstrap.min.js"></script>
 	<script type='text/javascript' src="http://www.csvscript.com/dev/html5csv.js"></script> 
 	<script type='text/javascript' src="js/pomodoro.min.js?v=<?php echo filemtime('js/pomodoro.min.js'); ?>"></script> 
