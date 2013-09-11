@@ -1,7 +1,7 @@
 JSPomodoro
 ========
 
-Cronomoetre seu tempo de trabalho de forma fácil, código limpo para fácil compreenção.
+Cronometre seu tempo de trabalho de forma fácil, código limpo para fácil compreenção.
 
 Inspiração
 ----------
