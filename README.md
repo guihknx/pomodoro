@@ -11,8 +11,9 @@ Desta necessidade surgiu JSPomodoro.
 
 Ref:
 ----------
+
 * [A Técnica Pomodoro](http://www.pomodorotechnique.com/)
--
+
 * [Try a demo!](http://guih.us/pomodoro/)
 
 * Vou adicionar comentários/DoC sobre as funções em breve.
