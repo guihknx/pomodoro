@@ -10,6 +10,7 @@ Na verdade foi mais uma necessidade de entregar nossas estimativas de tempo de d
 Desta necessidade surgiu JSPomodoro.
 
 Ref:
+----------
 * [A Técnica Pomodoro](http://www.pomodorotechnique.com/)
 -
 * [Try a demo!](http://guih.us/pomodoro/)
