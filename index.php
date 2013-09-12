@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css?v=<?php echo filemtime('css/style.css'); ?>">
 	<script type='text/javascript' src='http://code.jquery.com/jquery-1.9.1.js'></script>
 </head>
-<body>
+<body> 
 	<div class="container">
 		<div class="row panel panel-default">
 			<div class="tabbable tabs-left">

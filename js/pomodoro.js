@@ -11,7 +11,7 @@ jQuery(function (e) {
             this.PreventAccidentalClose();
             this.ElasticTextarea();
 
-        },
+        }, 
         startX: function () {
             window.history.pushState("object or string", "Title", "#ready");
 
