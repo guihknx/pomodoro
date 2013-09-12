@@ -7,12 +7,13 @@
 </head>
 <body>
 	<div class="container">
+		<a href="https://github.com/guihknx/pomodoro"><img alt="Fork me on GitHub" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" style="position: fixed; top: 0; right: 0; border: 0; z-index:9999"></img></a>
 		<div class="row">
 			<div class="panel panel-default">
 				<div class="panel-heading">
 					<div class="panel-title">
 						<span class="logo"></span>
-					 JSPomodoro
+						JSPomodoro
 					</div>
 				</div>
 				<div class="panel-body">
@@ -93,13 +94,13 @@
 				</div>
 			</div>
 		</div>
-	<script type='text/javascript' src="js/jquery.js?v=<?php echo filemtime('js/jquery.js'); ?>"></script>.
-	<script type='text/javascript' src="js/pomodoro.js?v=<?php echo filemtime('js/pomodoro.js'); ?>"></script>.
-	<script type='text/javascript' src="js/textarea.js"></script>
-	<script type='text/javascript' src="js/bootstrap.min.js"></script>
-	<script type='text/javascript' src="js/modal.js"></script>
-	<script type='text/javascript' src="http://www.csvscript.com/dev/html5csv.js"></script> 
-<!--	<script type='text/javascript' src="js/pomodoro.min.js?v=<?php echo filemtime('js/pomodoro.min.js'); ?>"></script> -->
-</body>
-</html>
+		<script type='text/javascript' src="js/jquery.js?v=<?php echo filemtime('js/jquery.js'); ?>"></script>
+		<script type='text/javascript' src="js/pomodoro.js?v=<?php echo filemtime('js/pomodoro.js'); ?>"></script>
+		<script type='text/javascript' src="js/textarea.js"></script>
+		<script type='text/javascript' src="js/bootstrap.min.js"></script>
+		<script type='text/javascript' src="js/modal.js"></script>
+		<script type='text/javascript' src="http://www.csvscript.com/dev/html5csv.js"></script> 
+		<!--	<script type='text/javascript' src="js/pomodoro.min.js?v=<?php echo filemtime('js/pomodoro.min.js'); ?>"></script> -->
+	</body>
+	</html>
 
