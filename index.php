@@ -10,10 +10,10 @@
 		<div class="row">
 			<div class="panel panel-default">
 				<div class="panel-heading">
-					<h3 class="panel-title">
-							<div class="logo"></div>
+					<div class="panel-title">
+						<span class="logo"></span>
 					 JSPomodoro
-					</h3>
+					</div>
 				</div>
 				<div class="panel-body">
 					<div class="tabbable tabs-left">
