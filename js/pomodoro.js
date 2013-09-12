@@ -1,6 +1,6 @@
 jQuery(function (e) {
 
-    e(function () {
+    e(function () { 
         POMODORO.init();
     });
 
